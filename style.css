@@ -146,7 +146,7 @@
 
 @media screen and (max-width: 720px) {
   .input-label {
-      width: 400px;
+      width: 300px;
       
       
   }
@@ -158,7 +158,7 @@
 
 @media screen and (max-width: 720px) {
   .activity-label {
-      width: 400px;
+      width: 300px;
       
       
   }
@@ -176,7 +176,7 @@
 
 @media screen and (max-width: 720px) {
   .password-label {
-      width: 400px;
+      width: 300px;
       
       
   }
