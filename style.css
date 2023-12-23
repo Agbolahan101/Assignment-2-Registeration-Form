@@ -125,10 +125,8 @@
 @media screen and (max-width: 720px) {
     .form-f-and-l-name {
         flex-direction: column;
-        align-items: center;
-        padding-left: 32px;
-        padding-right: 32px;
-        grid-row-gap: 50px;
+        
+        
     }
 }
 
@@ -146,20 +144,43 @@
   padding: 10px 10px;
 }
 
+@media screen and (max-width: 720px) {
+  .input-label {
+      width: 400px;
+      
+      
+  }
+}
 .activity-label {
   width: 420px;
   padding: 10px 10px;
 }
 
+@media screen and (max-width: 720px) {
+  .activity-label {
+      width: 400px;
+      
+      
+  }
+}
 .activity {
   padding-top: 20px;
 }
+
+
 
 .password-label {
   width: 420px;
   padding: 10px 10px;
 }
 
+@media screen and (max-width: 720px) {
+  .password-label {
+      width: 400px;
+      
+      
+  }
+}
 .password {
   padding-top: 20px;
 }
@@ -178,6 +199,13 @@
   font-size: 18px;
 }
 
+@media screen and (max-width: 720px) {
+  .button {
+      width: 400px;
+      
+      
+  }
+}
 .terms-of-use {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-weight: 400;
